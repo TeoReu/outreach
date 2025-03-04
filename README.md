@@ -7,7 +7,7 @@ Welcome to our workshop! In this session, we will venture into the fascinating w
 1. **Introduction to Reinforcement Learning (RL)**:
    - **Presentation**: We will explore some innovative projects in the field of RL to understand its applicability and importance in various scenarios. Link: [https://meet.google.com/dan-yczm-nua](https://meet.google.com/dan-yczm-nua)
 
-2. **Colab Notebook - Reinforcement Learning**: [https://colab.research.google.com/drive/1CD9usrmFR8-UzkdbnDoKbv_BRzxOpsMJ?usp=sharing](https://colab.research.google.com/drive/1CD9usrmFR8-UzkdbnDoKbv_BRzxOpsMJ?usp=sharing)
+2. **Colab Notebook - Reinforcement Learning**: [https://colab.research.google.com/drive/1QKcOHcyYRrv1EPO6vSe7pGN5Zfquglqw?usp=sharing](https://colab.research.google.com/drive/1QKcOHcyYRrv1EPO6vSe7pGN5Zfquglqw?usp=sharing)
    - **Minimax Algorithm**: We will learn how the Minimax algorithm works, a central concept in decision theory and RL, through a classic X and O game.
    - **Game Expansion**: We will analyze how increasing the size of the game board affects the complexity of the game and the need for heuristic functions.
    - **Heuristic Functions**: We will discuss how to develop and apply heuristic functions to evaluate and optimize strategies in a larger game.
